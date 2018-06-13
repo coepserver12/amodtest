@@ -6,6 +6,7 @@
 
 <h1> HEllo Evry one </h1>
 echo "jayshri lajjo";
+echo "lajjo editting";
 ?>
  <style>
 	  body{
