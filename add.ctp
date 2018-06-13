@@ -3,10 +3,9 @@
  * @var \App\View\AppView $this
  * @var \App\Model\Entity\User $user
  */
-
+<h2> Hello second time </h2>
 <h1> HEllo Evry one </h1>
 echo "jayshri lajjo";
-echo "lajjo editting";
 ?>
  <style>
 	  body{
